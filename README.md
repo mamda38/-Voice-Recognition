@@ -49,6 +49,8 @@ _Hình minh họa sơ đồ nguyên lý hoặc board PCB có thể nhúng ngay t
 
 - **Ngôn ngữ:** C++ (Arduino IDE)
 - Add model vào thư viện của Arduino IDE
+  ```bash
+  Copy folder model vào thư mục thư viện của Arduino IDE
 - **Verify:**
   ```bash
   Phím tắt: Ctrl + R
