@@ -34,13 +34,9 @@
 
 ## 🔧 Sơ Đồ Nguyên Lý
 
-- 📎 [Schematic (PDF)](docs/schematic.pdf)
-- 📎 [PCB Layout (Gerber)](docs/gerber.zip)
-- 📎 [File thiết kế (Eagle / KiCad)](docs/project.kicad_pcb)
+![Image](https://github.com/user-attachments/assets/a664e583-9f7a-4727-8717-e166b93ba82e)
 
-_Hình minh họa sơ đồ nguyên lý hoặc board PCB có thể nhúng ngay tại đây:_
-
-![Schematic](docs/images/schematic.png)
+![Image](https://github.com/user-attachments/assets/aabd6f0b-6a71-4a0e-87d9-a7c903de90d2)
 
 
 ---
